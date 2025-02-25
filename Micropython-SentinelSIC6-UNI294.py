@@ -5,7 +5,7 @@ import dht
 import urequests as requests
 
 # **🔹 Konfigurasi jaringan**
-FLASK_SERVER = "http://192.168.238.229:5000/send_data"  # Ganti dengan IP Flask server
+FLASK_SERVER = "http://192.168.238.229:5000/send_data"  
 WIFI_SSID = "ceweknya senku"
 WIFI_PASSWORD = "senku111"
 
